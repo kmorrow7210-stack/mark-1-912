@@ -1,0 +1,4 @@
+# Dev tooling for previewing the Markdown study notes in this repository.
+# Pinned for reproducible Cloud Agent environments.
+Markdown==3.10.3
+pymdown-extensions==10.16.1

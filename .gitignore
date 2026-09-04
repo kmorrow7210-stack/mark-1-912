@@ -1,0 +1,4 @@
+# Python dev tooling
+.venv/
+__pycache__/
+*.pyc
