@@ -1,0 +1,17 @@
+{
+  "name": "mark-1-912",
+  "install": "sudo apt-get update && sudo apt-get install -y --no-install-recommends python3-venv && python3 -m venv .venv && .venv/bin/pip install --upgrade pip && .venv/bin/pip install -r requirements.txt",
+  "terminals": [
+    {
+      "name": "markdown-preview",
+      "command": ".venv/bin/python tools/preview_server.py --host 0.0.0.0 --port 8000",
+      "description": "Renders the repository's Markdown study notes as HTML at http://localhost:8000 for live preview while editing."
+    }
+  ],
+  "ports": [
+    {
+      "name": "markdown-preview",
+      "port": 8000
+    }
+  ]
+}
