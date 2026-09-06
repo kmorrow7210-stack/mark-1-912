@@ -70,3 +70,43 @@ The Father's voice speaking to His Son.
 The crowds may have come for John.
 
 But heaven opens up for Jesus.
+
+## Who This Is
+
+The people must have wondered who was this man from Galilee.
+
+John has already said someone stronger is coming. Someone whose sandal strap he isn't worthy to stoop down and untie. Then the stronger One walks into the water like everybody else. Mark never has John point and say, "This is Him." Heaven does.
+
+The Father speaks to Him.
+
+Not first to the crowd about Him. To Him.
+
+“You are My beloved Son; in You I am well pleased.”
+
+That is not applause after a sermon. Jesus hasn't preached yet. That is not a prize for surviving the wilderness. He hasn't gone there yet.
+
+That is delight.
+
+Before the conflict.
+Before the forty days.
+Before Satan.
+
+The Father loves Him here.
+
+And the Spirit does not hover and leave.
+
+The Spirit descends on Him like a dove. This is not a decoration on the scene. This is not a moment that evaporates when the water dries. The Spirit has come upon the Son.
+
+So when He leaves the Jordan, we already know who is walking out.
+
+Not a man looking for Himself.
+
+The Son the Father loves.
+The One the Spirit has come upon.
+The stronger One John promised.
+
+That is who enters the wilderness.
+
+Heaven has opened. The Father has spoken. The Spirit has descended.
+
+Now Mark will show us where that Spirit sends Him.
