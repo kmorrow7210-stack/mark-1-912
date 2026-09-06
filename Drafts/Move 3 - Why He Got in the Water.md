@@ -7,7 +7,9 @@
 
 ## The Question
 
-I've been holding a question all morning. And if it hasn't crossed your mind yet, it will on the way home.
+Before we leave this chapter, I need to walk you back to the water.
+
+Because I've been holding a question all morning. And if it hasn't crossed your mind yet, it will on the way home.
 
 Go back to verse 4 with me.
 
