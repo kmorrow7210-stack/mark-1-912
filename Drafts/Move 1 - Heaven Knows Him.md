@@ -73,13 +73,7 @@ But heaven opens up for Jesus.
 
 ## Who This Is
 
-Stay here a minute.
-
-Don't rush past the river.
-
-If we leave too soon, the wilderness will sound like the Father forgot Him. Mark will not let that happen.
-
-Who is this man coming up out of the water?
+The people must have wondered who was this man from Galilee.
 
 John has already said someone stronger is coming. Someone whose sandal strap he isn't worthy to stoop down and untie. Then the stronger One walks into the water like everybody else. Mark never has John point and say, "This is Him." Heaven does.
 
